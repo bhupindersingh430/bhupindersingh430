@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Bhupinder Singh Saini! 👋
 
-<!--
-**bhupindersingh430/bhupindersingh430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack Developer who loves to try out new technologies and frameworks. Let's get in touch and develop something fresh and innovative :)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying in Delhi Technological University(DTU).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning front end libraries related with react.
+
+- 💬 Visit https://bhupinder-singh-saini.netlify.app/ for more information.
+
+- 🙂 He/His
+
+- 😉 I may read a book for very long, these are my first love.
