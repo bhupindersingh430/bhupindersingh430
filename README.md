@@ -8,6 +8,6 @@ I am a Front-end Developer who loves to try out new technologies and frameworks.
 
 - 💬 Visit https://bhupinder-singh-saini.netlify.app/ for more information.
 
-- 🙂 He/His
+- 🙂 He/His.
 
-- 😉 I may read a book for very long, these are my first love.
+- 😉 I can't live without books.
