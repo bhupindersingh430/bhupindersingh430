@@ -4,7 +4,7 @@ I am a Front-end Developer who loves to try out new technologies and frameworks.
 
 - 🔭 I’m currently studying in Delhi Technological University(DTU).
 
-- 🌱 I’m currently learning front end libraries related with react.
+- 🌱 I’m currently learning Front-end libraries related with react.
 
 - 💬 Visit https://bhupinder-singh-saini.netlify.app/ for more information.
 
